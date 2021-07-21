@@ -1,6 +1,6 @@
 {
   "name": "chords-scales",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get yourself some npm publishnotes",
   "main": "index.ts",
   "scripts": {
@@ -28,7 +28,9 @@
     "typescript": "^4.3.5"
   },
   "dependencies": {},
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "publishConfig": {
     "access": "public"
   }
