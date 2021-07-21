@@ -18,3 +18,8 @@ elo elo
 asdasd
 
 ```
+
+## Options
+
+- elo kurwa
+- elo siema
