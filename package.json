@@ -1,13 +1,14 @@
 {
   "name": "chords-scales",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get yourself some npm publishnotes",
   "main": "index.ts",
   "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Sevetro/chords-scales.git"
   },
+  "keywords": ["chords","scales","music"],
   "author": "Łukasz Gil",
   "license": "MIT",
   "bugs": {

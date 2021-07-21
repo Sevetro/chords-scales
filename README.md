@@ -21,5 +21,5 @@ asdasd
 
 ## Options
 
-- elo kurwa
+- option 1
 - elo siema
