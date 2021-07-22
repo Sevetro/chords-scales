@@ -1,3 +1,20 @@
-const fn = (number: number) => number;
+const musicalSharpNotes = [
+  "A",
+  "A#",
+  "B",
+  "C",
+  "C#",
+  "D",
+  "D#",
+  "E",
+  "F",
+  "F#",
+  "G",
+  "G#",
+];
 
-module.exports = fn;
+const minorScaleIntervals = [0, 2, 3, 5, 7, 8, 10];
+
+const createMinorScale = (rootNote: string) => rootNote;
+
+module.exports = createMinorScale;
