@@ -11,10 +11,10 @@
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
     "isolatedModules": true,
-    "outDir": "lib",
+    "outDir": ".",
     "rootDir": "src",
     "declaration": true,
-    "types": ["node"]
+    "types": ["node"],
   },
   "include": [
     "src"
