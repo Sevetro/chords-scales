@@ -11,17 +11,16 @@
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
     "isolatedModules": true,
-    "outDir": ".",
+    "outDir": "dist",
     "rootDir": "src",
     "declaration": true,
-    "types": ["node"],
+    "types": ["jest", "node"],
+
   },
   "include": [
     "src"
   ],
   "exclude": [
-    "lib",
-    "node_modules",
-    "src/**/*.spec.ts"
+    "src/__tests__"
   ],
 }
