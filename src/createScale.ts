@@ -32,7 +32,7 @@ const sharpNotes: musicalNote[] = [
   "G#",
 ];
 
-export const flatNotes: musicalNote[] = [
+const flatNotes: musicalNote[] = [
   "Ab",
   "A",
   "Bb",
