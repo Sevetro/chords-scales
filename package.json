@@ -1,6 +1,6 @@
 {
   "name": "chords-scales",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get yourself some npm publishnotes",
   "main": "dist/index.js",
   "scripts": {
